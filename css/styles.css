@@ -1,0 +1,84 @@
+body {
+  background-color: #c9b89e;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #2F4550;
+
+}
+
+a.navbar-brand, a.nav-link  {
+  color: #f4f4f9 !important;
+}
+
+.bg-light {
+  background-color: #2f4550 !important;
+}
+
+.card {
+  border-color: #4f504b;
+}
+
+#top {
+  padding-top: 8rem;
+  padding-bottom: 5rem;
+}
+
+.course-listing {
+
+}
+
+h1 {
+  font-size: 4.4rem;
+  text-align: center;
+  color: #2F4550;
+  font-family: 'Libre Caslon Display', serif;
+}
+#tagline {
+    color: #2F4550;
+    margin-top: -1rem;
+    font-size: 1.8rem;
+}
+
+#essentialQuestion {
+  font-size: 1.4rem;
+  color: #d92b4b;
+
+}
+
+
+a {
+  color: #473737;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 1px dotted;
+}
+a.card-link:hover {
+  color: #A64346;
+}
+
+p {
+
+
+
+}
+
+.card-text {
+  font-size: 0.8rem;
+}
+
+.highlite-sentence {
+  color: #A64346;
+}
+
+.courseRow {
+  margin-top: 2rem;
+}
+
+footer {
+  margin-top: 12rem;
+  min-height: 10rem;
+  background-color: #9FA092;
+}
