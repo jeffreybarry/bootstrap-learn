@@ -16,7 +16,7 @@ body {
     left: 0;
     z-index: 100;
     /* Behind the navbar */
-    padding: 48px 0 0;
+    padding: 48px 0 3rem;
     /* Height of navbar */
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
 }
@@ -70,8 +70,11 @@ body {
     color: inherit;
 }
 .sidebar-heading {
+    margin-top: 1.5rem;
+    margin-left: .5rem;
     font-size: .75rem;
     text-transform: uppercase;
+    color: #c9b89e;
 }
 /*
  * Navbar

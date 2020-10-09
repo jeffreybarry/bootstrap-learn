@@ -77,8 +77,17 @@ p {
   margin-top: 2rem;
 }
 
+
+/* needed for sticky footer. See https://stackoverflow.com/questions/46722697/bootstrap-4-sticky-footer-not-sticking */
+
+
+.flex-fill {
+  flex: 1 1 auto;
+}
+
 footer {
   margin-top: 12rem;
-  min-height: 10rem;
-  background-color: #9FA092;
+/*  min-height: 10rem;*/
+
+
 }
